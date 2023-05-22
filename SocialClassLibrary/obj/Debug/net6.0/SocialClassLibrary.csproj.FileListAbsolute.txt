@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\bin\Debug\net6.0\SocialClassLibrary.deps.json
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\bin\Debug\net6.0\SocialClassLibrary.runtimeconfig.json
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\bin\Debug\net6.0\SocialClassLibrary.dll
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\bin\Debug\net6.0\SocialClassLibrary.pdb
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.dll
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\refint\SocialClassLibrary.dll
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.pdb
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\SocialClassLibrary.genruntimeconfig.cache
+C:\Users\hp\Desktop\Back-End\C#\Learning Projects\Social\SocialClassLibrary\obj\Debug\net6.0\ref\SocialClassLibrary.dll
